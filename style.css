@@ -35,7 +35,8 @@ figcaption {
 
 
 #detials a:link{
-  color: black
+  color: black;
+  text-decoration:  none;
 }
 
 
