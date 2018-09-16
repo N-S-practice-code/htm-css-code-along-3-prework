@@ -34,7 +34,9 @@ figcaption {
 }
 
 
-#detials a:link
+#detials a:link{
+  color: black
+}
 
 
   
