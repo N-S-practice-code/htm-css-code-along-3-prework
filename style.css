@@ -45,7 +45,7 @@ figcaption {
 }
 
 #detials a:active{
-  color: black;
+  color: red;
   text-decoration:  underline;
 }
   
