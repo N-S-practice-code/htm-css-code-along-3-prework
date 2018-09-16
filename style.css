@@ -34,7 +34,7 @@ figcaption {
 }
 
 
-#detials a:link{
+#detials a:link, #detials a:link{
   color: black;
   text-decoration:  none;
 }
